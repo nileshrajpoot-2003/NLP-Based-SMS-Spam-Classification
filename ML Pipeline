@@ -1,0 +1,15 @@
+SMS Dataset
+     ↓
+Data Cleaning
+     ↓
+Text Preprocessing
+     ↓
+TF-IDF Vectorization
+     ↓
+Train / Test Split
+     ↓
+Logistic Regression
+     ↓
+Prediction
+     ↓
+Evaluation
