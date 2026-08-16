@@ -1,0 +1,14 @@
+             SMS Message
+                  │
+                  ▼
+          Text Preprocessing
+                  │
+                  ▼
+          TF-IDF Vectorizer
+                  │
+                  ▼
+        Logistic Regression
+                  │
+           ┌──────┴──────┐
+           ▼             ▼
+         SPAM           HAM
